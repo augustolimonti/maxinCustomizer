@@ -70,14 +70,7 @@ const Builder = () => {
         imageArray: imageArray,
         identifyingHash: identifyingHash
       });
-      var config = {
-        method: "post",
-        url: "https://rmbl36wkd5.execute-api.us-east-1.amazonaws.com/Production/twitter",
-        headers: {
-          "x-api-key": 'YdODCb97vJ4dUhHHBqZSP5doyeYQ3W9o2aMDYX6Z',
-          "Content-Type": "application/json",
-        },
-        data: data,
+      var config = { //not available in sample code.
       };
 
       axios(config)
