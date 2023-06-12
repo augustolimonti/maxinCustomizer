@@ -8,7 +8,7 @@
 
 ## Overview
 
-Welcome to the Maxin' Customizer — a website developed by Maxin'. Please note, this repository contains sample code for showcasing the front-end capabilities of this closed-source site and is missing the code for downloading the image and posting it on twitter.
+Welcome to the Maxin' Customizer — a website developed by Maxin'. Please note, this repository contains sample code for showcasing the front-end capabilities of this closed-source site and is missing the code for downloading the image and posting it on twitter. To see how the twitter posting/downloading functions you can head over to the [main website](https://www.maxinout.com/).
 
 The showcased functionalities include:
 
