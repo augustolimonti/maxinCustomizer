@@ -8,4 +8,24 @@
 
 ## Overview
 
-Welcome to the Maxin' Customizer — a site developed by Maxin'.
+Welcome to the Maxin' Customizer — a website developed by Maxin'. Please note, this repository contains sample code for showcasing the front-end capabilities of this closed-source site and is missing the code for downloading the image and posting it on twitter.
+
+The showcased functionalities include:
+
+  * Customizer interface
+  * UI Styled Components
+
+## Getting Started
+
+1. Install dependencies
+    ```shell
+       yarn install
+       ```
+2. Build and host locally for local development (with hot-reload)
+
+   ```shell
+   yarn start
+   ```
+
+
+ 
